@@ -1,2 +1,2 @@
 # objectFactories
-A reference repo containing JS code for constructing objects.
+A resource repo containing JS code for constructing objects.
